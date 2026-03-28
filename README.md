@@ -8,15 +8,15 @@ It serves as a structured reference for researchers, analysts, and the general p
 
 ## 📂 Repository Contents
 
-* `epstine-video-dataset.txt` — Plain text list of video URLs and file sizes ([here](https://github.com/BlackHatDevX/epstein-videos-doj-index/epstine-video-dataset.txt))
-* `epstine-video-dataset.md` — Markdown-formatted version of the dataset  ([here](https://github.com/BlackHatDevX/epstein-videos-doj-index/epstine-video-dataset.md))
+* `epstine-video-dataset.txt` — [Plain text list of video URLs and file sizes](https://github.com/BlackHatDevX/epstein-videos-doj-index/blob/main/epstine-video-dataset.txt)
+* `epstine-video-dataset.md` — [Markdown-formatted version of the dataset](https://github.com/BlackHatDevX/epstein-videos-doj-index/blob/main/epstine-video-dataset.md)
 
 Each entry contains:
 
 ```
 <video_url> <size_in_MB>
 ```
-
+Initial commit
 ---
 
 ## 📊 Dataset Overview
